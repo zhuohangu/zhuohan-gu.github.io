@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://cs.uchicago.edu/'>Department of Computer Science</a>, 5730 S. Ellis Avenue, John Crerar Library 375, Chicago, IL 60637
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>QUOD RESTAURANT & BAR</p>
-    <p>92-94 High St, </p>
+    <p>92-94 High St,</p>
     <p>Oxford OX1 4BJ</p>
 
 news: true # includes a list of news items
