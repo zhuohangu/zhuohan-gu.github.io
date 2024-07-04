@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://cs.uchicago.edu/'>Department of Computer Science</a>, 5730 S. Ellis Avenue, John Crerar Library 375, Chicago, IL 60637
+subtitle: <a href='https://cs.uchicago.edu/'>Dept. of Computer Science at the University of Chicago</a>, JCL 375, 5730 S. Ellis Avenue, Chicago, IL 60637
 
 profile:
   align: right
